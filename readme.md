@@ -1,19 +1,24 @@
-# This is a large heading
-## This is a smaller heading
+# Jhon Eder Vergara
+### Un poco de mi!!
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Soy Jhon Eder Vergara, vivo en el municipio de La Ceja Antioquia cerca de la ciudad de Medellín,
 
-- This is 
-- an unordered
-- list
+### Ocupación
 
-1. This is
-2. an ordered
-3. list
-Here is 'some code' in the middle of a sentence.
+Soy estudiante de sexto de Ingeniería Física en la Universidad Nacional de Colombia sede Medellín
+
+### Pasatiempos
+
+En mis tiempos libre me gusta hacer diferentes actividades como:
+
+- *Montar bicicleta
+- *Jugar fútbol
+- *Leer
+- *Ver series y películas
+
+### Contacto
+
+Pueden tener contacto conmigo [en instagram](https://www.instagram.com/jhonener.v/?hl=es-la)
 
 ''' 
 This is
